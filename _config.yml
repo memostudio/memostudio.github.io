@@ -6,14 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Memo Studio Blog
+title: Memo Studio
 email: huangan@brainagi.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog for HUST Memo Game Studio
+  华中科技大学 Memo 游戏工作室
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://memostudio.github.io" # the base hostname & protocol for your site
 github_username:  memostudio
 
 # Build settings
 markdown: kramdown
-theme: Architect
